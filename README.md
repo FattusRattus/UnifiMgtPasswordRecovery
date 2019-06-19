@@ -41,7 +41,11 @@ pip install pyinstaller
 
 Usage
 ----
-Just run the Python code or compiled EXE.
+Just run the Python code or compiled EXE (in releases).
+
+WARNING: Use at your own risk.
+
+Make a backup of your configuration before using this tool!
 
 Tested against Unifi Controller versions:
 ----
